@@ -1,6 +1,6 @@
 # Quantum computing tutorials
 
-This is the source code of the webpage for the [quantum computer science](https://mentesniker.github.io/Quantum-computer-science-tutorials/). This page is intenden as a first approach to quantum computing. Here you'll find the most common algorithms and protocols as well as others projects related to quantum computing.
+This page is intenden as a first approach to quantum computing. Here you'll find the most common algorithms and protocols as well as others projects related to quantum computing.
 
 ---
 
